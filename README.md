@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**hansdietergross/hansdietergross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer from [Location]
 
-Here are some ideas to get you started:
+### 📊 This week I spent my time on:
+[Activity tracking]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☕ Support my work:
+[Buy Me a Coffee button]
+
+### 📈 My Stats:
+[GitHub stats]
+
+### 📌 Pinned Repositories:
+[Your pinned repos will appear here]
