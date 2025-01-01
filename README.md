@@ -1,10 +1,5 @@
 ![Header](./header.jpg)
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="30%" src="owl.png">
-</div>
-
 ![Java](https://img.shields.io/badge/Java-ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&linkIcon=false&link=)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&linkIcon=false&link=)
@@ -12,15 +7,45 @@
 ![Algo Trading](https://img.shields.io/badge/Algo_Trading-00FF00?style=flat&linkIcon=false&link=)
 ![PineScript](https://img.shields.io/badge/PineScript-9933FF?style=flat&linkIcon=false&link=)
 
+<div>
+  <img align="right" width="30%" src="owl.png">
+</div>
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome! 
 * Developer/Teacher/Trader *
-<br /> 
+  
+---
 
 <p align="left">I am a Developer and AI Enthusiast with a huge love for Python, Javascript, Node.js, Pinescript and Algo Trading. </p>
-- ✨ Coder for life :)
-- 🌱 I’m currently learning new things everyday. What will be next tomorrow?
-- 💁‍♂️ Creator of [my Tutorials and Exercise Page](https://masteroftheformulas.weebly.com)
-- ✍ You can read my articles about AI, Algotrading at [LinkedIn](https://linkedin.com/in/hansdietergroß).
+<p>- ✨ Coder for life :)</p>
+<p>- 🌱 I’m currently learning new things everyday. What will be next tomorrow?</p>
+<p>- 💁‍♂️ Creator of <a href="https://masteroftheformulas.weebly.com">my Tutorials and Exercise Page</a></p>
+<p>- ✍ You can read my articles about AI, Algotrading at <a href="https://linkedin.com/in/hansdietergroß">LinkedIn</a></p>
+
+---
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
+  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
+  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
+</ul>
+---
 
 <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
 <div align="center">
@@ -37,6 +62,8 @@
 <div align="center">
   <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansdietergross&theme=nightowl&layout=donut&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff">
 </div>
+
+---
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">  
