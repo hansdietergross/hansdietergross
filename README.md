@@ -53,7 +53,7 @@
    🧑‍🏫️AI-Powered Prompt Engineering: Revolutionize Your SQL Exam Creation Process</a>
   </li>
 </ul>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ---
 
