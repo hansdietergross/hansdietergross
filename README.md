@@ -26,25 +26,35 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="SkillsDark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="SkillsWhite.gif">
+  <img align="left" alt="GIF description" src="SkillsWhite.gif">
 </picture>
 <br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
   
-<h3 align="left">Latest Blog Posts</h3>
+<h3 align="left">Latest LinkedIn Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
-  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
-  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
+  <li><a href="https://www.linkedin.com/pulse/save-time-space-must-have-tool-every-computer-use-hans-dieter-gro%25C3%259F-515vc/?trackingId=nlevWupN4%2FmXcd3sfK%2FAXQ%3D%3D">
+       ⌛Save Time and Space: The Must-Have Tool for Every Computer Use</a>
+  </li>
+  <li><a href="https://www.linkedin.com/pulse/from-work-wellness-how-notebooklm-makes-life-smarter-hans-dieter-gro%25C3%259F-phodc/?trackingId=eFhdxckMxtIe3hEnC197qQ%3D%3D">
+    🏆Rebuilding Success: Insights from an IT Teacher and a Developer</a>
+  </li>
+  <li><a href="https://www.linkedin.com/pulse/rebuilding-success-insights-from-teacher-developer-hans-dieter-gro%25C3%259F-kdktc/?trackingId=TVz%2F0vv3TxZDCoBxnlybNA%3D%3D">
+    🌱From Work to Wellness: How NotebookLM Makes Life Smarter</a>
+  </li>
+  <li><a href="https://www.linkedin.com/pulse/napkin-ai-transform-texts-stunning-graphics-hans-dieter-gro%25C3%259F-hfw8c/">
+    🎨Napkin AI: Transform Texts into Stunning Graphics!</a>
+  </li>
+  <li><a href="https://www.linkedin.com/pulse/notebooklm-next-generation-chatgpt-hans-dieter-gro%25C3%259F-kipac/">
+    🔜NotebookLM - The next generation of ChatGPT?</a>
+  </li>
+  <li><a href="https://www.linkedin.com/pulse/ai-powered-prompt-engineering-revolutionize-your-sql-exam-gro%25C3%259F-bffkc/">
+   🧑‍🏫️AI-Powered Prompt Engineering: Revolutionize Your SQL Exam Creation Process</a>
+  </li>
 </ul>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 ---
 
 <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
