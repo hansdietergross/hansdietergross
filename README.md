@@ -1,2 +1,2 @@
-![Header](./header.png)
+![Header](./header.jpg)
 
