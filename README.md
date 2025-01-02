@@ -1,4 +1,4 @@
-![Header](./header.jpg)
+![Header](./header.png)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&linkIcon=false&link=)
