@@ -1,4 +1,4 @@
-![Header](./header2.png)
+![Header](./header.png)
 
 <div>
   <img align="right" width="30%" src="owl.png">
